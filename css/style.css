@@ -4,7 +4,8 @@
 body{
 	margin: 0;
 	font-size: 16px;
-    background-image: linear-gradient(to right, #293990 , #206db3);
+	background-image: linear-gradient(to left, #293990 , #206db3);
+	background-repeat: none;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
 }
@@ -234,15 +235,64 @@ body{
 	body{
 		padding: 15px;
 	}
+	.custom-box {
+		display: block;
+		margin-left: 5px;
+		margin-right: 5px;
+		width: 100%;
+	}
+
+	.pvpIcon img{
+		display: block;
+		width: 200px;
+		height: auto;
+	}
 }
 
+.type {
+	font-weight: bold;
+}
 
+ .type.fighting {
+	color: 	#d85166;
+}
 
+.type.ice {
+	color: 	#78ded5;
+}
 
+.type.electric {
+	color: #ffd74e;
+}
 
+.type.grass {
+	color: #2aa03d;
+}
 
+.type.water {
+	color: #59aedc;
+}
 
+.type.fire {
+	color: #ffa022;
+}
 
+.type.fairy {
+	color: #f389d6;
+}
 
+.type.poison {
+	color: #d84cc4;
+}
 
+.type.ghost {
+	color: #8a7ed0;
+}
 
+.type.dark{
+	color: #4f4d5f;
+}
+
+.type.steel{
+	color: #277a8e;
+}
