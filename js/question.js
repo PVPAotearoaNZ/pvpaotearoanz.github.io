@@ -75,7 +75,27 @@ const quiz = [
         answer:0
     },
     {
-        q:' <span class="type poison">Poison</span> is super effecitve against <span class="type grass">Grass</span> and <span class="type fairy">Fairy</span> type Pokemon ',
+        q:'<span class="type poison">Poison</span> is super effecitve against <span class="type grass">Grass</span> and <span class="type psychic">Psychic</span> type Pokemon ',
+        options:['True', 'False'],
+        answer:1
+    },
+    {
+        q:'<span class="type dragon">Dragon</span> is only super effecitve against <span class="type dragon">Dragon</span> type Pokemon ',
+        options:['True', 'False'],
+        answer:0
+    },
+    {
+        q:'Groudon would be good against Tyranitar because <span class="type ground">Ground</span> is super effective against <span class="type rock">Rock</span>',
+        options:['True', 'False'],
+        answer:0
+    },
+    {
+        q:'<span class="type flying">Flying</span> is super effective against <span class="type electric">Electric</span> type pokemon',
+        options:['True', 'False'],
+        answer:1
+    },
+    {
+        q:'Azumarill would be good against Altaria because <span class="type fairy">Fairy</span> is super effective against <span class="type dragon">Dragon</span>',
         options:['True', 'False'],
         answer:0
     },
@@ -85,18 +105,13 @@ const quiz = [
 
 /*
 
-What is good against dragon = Dragon
-What is good against ground = Fire,Electric,poison,Rock,Fairy
+
+
+
 What is good against flying = Grass,Fighting,Bug
 What is good against psychic = Fighting,Poison
 What is good against bug = Grass,Psychic,Dark
 What is good against rock = Fire,Ice,Flying,Bug
-
-
-
-
-What is good against steel = Ice,Rock,Fairy
-What is good against fairy = Fighing,ghost,Dragon
 */
 
 //BAD
