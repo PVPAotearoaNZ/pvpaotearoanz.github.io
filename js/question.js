@@ -99,6 +99,11 @@ const quiz = [
         options:['True', 'False'],
         answer:0
     },
+    {
+        q:'Cresselia would be good against both Machamp and Nidoking as <span class="type psychic">Psychic</span> is super effective against <span class="type fighting">Fighting</span> and <span class="type poison">Poison</span>',
+        options:['True', 'False'],
+        answer:0
+    },
 ]
 
 //GOOD
@@ -108,7 +113,6 @@ const quiz = [
 
 
 
-What is good against flying = Grass,Fighting,Bug
 What is good against psychic = Fighting,Poison
 What is good against bug = Grass,Psychic,Dark
 What is good against rock = Fire,Ice,Flying,Bug
