@@ -227,7 +227,6 @@ body{
 	margin-right: 20px;
 }
 
-
 @media(max-width: 767px){
 	.result-box .btn{
 		margin-bottom: 15px;
@@ -241,11 +240,14 @@ body{
 		margin-right: 5px;
 		width: 100%;
 	}
-
 	.pvpIcon img{
 		display: block;
 		width: 200px;
 		height: auto;
+	}
+	.home-box h3,
+	.home-box p {
+		display: inline-block;
 	}
 }
 
