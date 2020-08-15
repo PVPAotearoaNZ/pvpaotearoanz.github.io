@@ -319,5 +319,6 @@ body{
 	color: #6d89d7;
 }
 
-
-
+.type.bug{
+	color: #86c800;
+}
