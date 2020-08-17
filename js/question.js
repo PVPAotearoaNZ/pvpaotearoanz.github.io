@@ -5,9 +5,9 @@ const quiz = [
     {
         q:' From the available types, what is <span class="type fire">Fire</span> super effective against?',
         options:['<img src="css/assets/icons/Grass.png" alt="grass"> <img src="css/assets/icons/Ice.png" alt="ice"> <img src="css/assets/icons/Bug.png" alt="bug">',
-                 '<img src="css/assets/icons/Grass.png" alt="grass"> <img src="css/assets/icons/Water.png" alt="water"><img src="css/assets/icons/Bug.png" alt="bug">', 
-                 '<img src="css/assets/icons/Ice.png" alt="ice"> <img src="css/assets/icons/Bug.png" alt="bug"> <img src="css/assets/icons/Steel.png" alt="steel">', 
-                 '<img src="css/assets/icons/Grass.png" alt="grass"> <img src="css/assets/icons/Ice.png" alt="ice"> <img src="css/assets/icons/Steel.png" alt="steel">'],
+                 '<img src="css/assets/icons/Fairy.png" alt="grass"> <img src="css/assets/icons/Water.png" alt="water"><img src="css/assets/icons/Bug.png" alt="bug">', 
+                 '<img src="css/assets/icons/Fiary.png" alt="ice"> <img src="css/assets/icons/Bug.png" alt="bug"> <img src="css/assets/icons/Steel.png" alt="steel">', 
+                 '<img src="css/assets/icons/Grass.png" alt="grass"> <img src="css/assets/icons/Ice.png" alt="ice"> <img src="css/assets/icons/Nomral.png" alt="steel">'],
         answer:0
     },
     {
