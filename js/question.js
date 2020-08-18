@@ -75,12 +75,12 @@ const quiz = [
         answer:0
     },
     {
-        q:'<span class="type poison">Poison</span> is super effecitve against <span class="type grass">Grass</span> and <span class="type psychic">Psychic</span> type Pokemon ',
+        q:'<span class="type poison">Poison</span> is super effective against <span class="type grass">Grass</span> and <span class="type psychic">Psychic</span> type Pokemon ',
         options:['True', 'False'],
         answer:1
     },
     {
-        q:'<span class="type dragon">Dragon</span> is only super effecitve against <span class="type dragon">Dragon</span> type Pokemon ',
+        q:'<span class="type dragon">Dragon</span> is only super effetive against <span class="type dragon">Dragon</span> type Pokemon ',
         options:['True', 'False'],
         answer:0
     },
@@ -111,7 +111,7 @@ const quiz = [
     },
     {
         q:'From the available types, what is <span class="type bug">Bug</span> super effective against?',
-        options:['<img src="css/assets/icons/Grass.png" alt="grass"> <img src="css/assets/icons/Psychic.png" alt="psychic"> <img src="css/assets/icons/dark.png" alt="dark">',
+        options:['<img src="css/assets/icons/Grass.png" alt="grass"> <img src="css/assets/icons/Psychic.png" alt="psychic"> <img src="css/assets/icons/Dark.png" alt="dark">',
                  '<img src="css/assets/icons/Psychic.png" alt="psychic"> <img src="css/assets/icons/Normal.png" alt="nomral"> <img src="css/assets/icons/Grass.png" alt="grass">',
                  '<img src="css/assets/icons/Psychic.png" alt="psychic"> <img src="css/assets/icons/Dark.png" alt="dark"> <img src="css/assets/icons/Ice.png" alt="ice">',
                  '<img src="css/assets/icons/Normal.png" alt="normal"> <img src="css/assets/icons/Grass.png" alt="grass"> <img src="css/assets/icons/Ice.png" alt="ice">'],
