@@ -106,11 +106,11 @@
       },
       {
           question:'From the available types, what is <span class="type steel">Steel</span> super effective against?',
-          options:['<img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Fairy.png" alt="fairy">',
+          options:['<img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Fairy.png" alt="fairy">',
                    '<img src="img/icons/Ice.png" alt="ice"> <img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Fairy.png" alt="fairy">',
                    '<img src="img/icons/Water.png" alt="water"> <img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Ice.png" alt="ice">',
                    '<img src="img/icons/Fairy.png" alt="fairy"> <img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Ice.png" alt="ice">'],
-          answer:0,
+          answer:1,
           description: 'Meteor Mash is super effective against Togekiss'
       },
       {
