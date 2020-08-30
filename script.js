@@ -229,7 +229,7 @@
         {
             question:'Machamp is not very effective against <span class="type ghost">Ghost</span> type Pok&eacute;mon',
             options:['True', 'False'],
-            answer:1,
+            answer:0,
             description:'Cross chop will be laughed at by Haunter'
         },
         {
