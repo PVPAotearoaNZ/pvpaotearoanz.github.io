@@ -32,15 +32,6 @@
 {
     category:"Super Effective",
     quizWrap:[
-      {
-        question:'From the available types, what is <span class="type grass">Grass</span> super effective against?',
-        options:['<img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Water.png" alt="fire"><img src="img/icons/Dark.png" alt="dark">',
-                 '<img src="img/icons/Water.png" alt="water"> <img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Rock.png" alt="rock">', 
-                 '<img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Rock.png" alt="rock">', 
-                 '<img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Water.png" alt="ground"> <img src="img/icons/Electric.png" alt="electric">'],
-        answer:1,
-        description:"Frenzy Plant is super effective against Groudon."
-        },
         {
           question:' From the available types, what is <span class="type fire">Fire</span> super effective against?',
           options:['<img src="img/icons/Fairy.png" alt="grass"> <img src="img/icons/Water.png" alt="water"><img src="img/icons/Bug.png" alt="bug">', 
@@ -48,6 +39,7 @@
                    '<img src="img/icons/Grass.png" alt="grass"> <img src="img/icons/Ice.png" alt="ice"> <img src="img/icons/Bug.png" alt="bug">', 
                    '<img src="img/icons/Grass.png" alt="grass"> <img src="img/icons/Ice.png" alt="ice"> <img src="img/icons/Normal.png" alt="steel">'],
           answer:2,
+          description: 'Blast Burn is super effective against Victreebel'
       },
       {
           question:' From the available types, what is <span class="type water">Water</span> super effective against?',
@@ -55,7 +47,8 @@
                    '<img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Fire.png" alt="fire"><img src="img/icons/Grass.png" alt="grass">', 
                    '<img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Electric.png" alt="electric">', 
                    '<img src="img/icons/Water.png" alt="water"> <img src="img/icons/Rock.png" alt="ground"> <img src="img/icons/Electric.png" alt="electric">'],
-          answer:0
+          answer:0,
+          description: "Hydro pump is super effective against Galarian Stunfisk"
       },
       {
           question:'From the available types, what is <span class="type grass">Grass</span> super effective against?',
@@ -63,7 +56,8 @@
                    '<img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Water.png" alt="fire"><img src="img/icons/Dark.png" alt="dark">', 
                    '<img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Rock.png" alt="rock">', 
                    '<img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Water.png" alt="ground"> <img src="img/icons/Electric.png" alt="electric">'],
-          answer:0
+          answer:0,
+          description:"Frenzy plant is super effective on Swampert"
       },
       {
           question:'From the available types, what is <span class="type electric">Electric</span> super effective against?',
@@ -71,7 +65,8 @@
                    '<img src="img/icons/Flying.png" alt="flying"> <img src="img/icons/Ground.png" alt="ground">', 
                    '<img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Water.png" alt="rock">',
                    '<img src="img/icons/Water.png" alt="water"> <img src="img/icons/Flying.png" alt="flying">'],
-          answer:3
+          answer:3,
+          description: 'Volt Switch is super effective against Noctowl'
       },
       {
           question:'From the available types, what is <span class="type ice">Ice</span> super effective against?',
@@ -79,7 +74,8 @@
                    '<img src="img/icons/Grass.png" alt="grass"> <img src="img/icons/Flying.png" alt="flying"> <img src="img/icons/Rock.png" alt="rock">',
                    '<img src="img/icons/Flying.png" alt="flying"> <img src="img/icons/Dragon.png" alt="dragon"> <img src="img/icons/Normal.png" alt="normal">', 
                    '<img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Flying.png" alt="flying">'],
-          answer:0
+          answer:0,
+          description: 'Ice Beam is super effective on Venusaur' 
       },
       {
           question:'From the available types, what is <span class="type fighting">Fighting</span> super effective against?',
@@ -87,7 +83,8 @@
                    '<img src="img/icons/Dragon.png" alt="dragon"> <img src="img/icons/Water.png" alt="water"> <img src="img/icons/Dark.png" alt="dark">',
                    '<img src="img/icons/Normal.png" alt="normal"> <img src="img/icons/Ice.png" alt="ice"> <img src="img/icons/Rock.png" alt="rock">',
                    '<img src="img/icons/Ice.png" alt="ice"> <img src="img/icons/Dragon.png" alt="dragon"> <img src="img/icons/Steel.png" alt="steel">'],
-          answer:2
+          answer:2,
+          description: 'Close Combat is super effective against Umbreon'
       },
       {
           question:'From the available types, what is <span class="type ghost">Ghost</span> super effective against?',
@@ -95,7 +92,8 @@
                    '<img src="img/icons/Psychic.png" alt="psychic"> <img src="img/icons/Dark.png" alt="dark">', 
                    '<img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Fairy.png" alt="fairy">', 
                    '<img src="img/icons/Ghost.png" alt="ghost"> <img src="img/icons/Fairy.png" alt="fairy">'],
-          answer:0
+          answer:0,
+          description: 'Shadow ball is super effective on Alolan Marowak'
       },
       {
           question:'From the available types, what is <span class="type dark">Dark</span> super effective against?',
@@ -103,7 +101,8 @@
                    '<img src="img/icons/Psychic.png" alt="psychic"> <img src="img/icons/Flying.png" alt="flying">', 
                    '<img src="img/icons/Ghost.png" alt="ghost"> <img src="img/icons/Dark.png" alt="dark">', 
                    '<img src="img/icons/Psychic.png" alt="psychic"> <img src="img/icons/Ghost.png" alt="ghost">'],
-          answer:3
+          answer:3,
+          description: 'Foul play is super effective on haunter'
       },
       {
           question:'From the available types, what is <span class="type steel">Steel</span> super effective against?',
@@ -111,23 +110,26 @@
                    '<img src="img/icons/Ice.png" alt="ice"> <img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Fairy.png" alt="fairy">',
                    '<img src="img/icons/Water.png" alt="water"> <img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Ice.png" alt="ice">',
                    '<img src="img/icons/Fairy.png" alt="fairy"> <img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Ice.png" alt="ice">'],
-          answer:0
+          answer:0,
+          description: 'Meteor Mash is super effective against Togekiss'
       },
       {
           question:'<span class="type poison">Poison</span> is super effective against <span class="type grass">Grass</span> and <span class="type psychic">Psychic</span> type Pokemon ',
           options:['True', 'False'],
-          answer:1
+          answer:1,
+          description: 'Poison digs the grass and fairy types'
       },
       {
           question:'<span class="type dragon">Dragon</span> is only super effective against <span class="type dragon">Dragon</span> type Pokemon ',
           options:['True', 'False'],
           answer:0,
-          description:'I know right!, dragonite does not like looking at itself in the mirror',
+          description:'I know right!, Dragonite does not like looking at itself in the mirror',
       },
       {
           question:'Groudon would be good against Tyranitar because <span class="type ground">Ground</span> is super effective against <span class="type rock">Rock</span>',
           options:['True', 'False'],
-          answer:0
+          answer:0,
+          description: 'A gound&#8217;of applause for Groudon. Yes it grinds Tyranitar as ground is super effective agasint Rock types'
       },
       {
           question:'<span class="type flying">Flying</span> is super effective against <span class="type electric">Electric</span> type Pok&eacute;mon',
@@ -136,19 +138,22 @@
           description: 'Flying + Electric = KFC'
       },
       {
-          question:'Azumarill would be good against Altaria because <span class="type fairy">Fairy</span> is super effective against <span class="type dragon">Dragon</span>',
+          question:'With Ice Beam, Azumarill would be good against Altaria because <span class="type ice">Ice</span> is super effective against <span class="type dragon">Dragon</span>',
           options:['True', 'False'],
-          answer:0
+          answer:0,
+          description: 'Yes Sir, for full &#8217;Maximus&#8217; damage hit Altaria with Ice Beam!'
       },
       {
           question:'Cresselia would be good against both Machamp and Nidoking as <span class="type psychic">Psychic</span> is super effective against <span class="type fighting">Fighting</span> and <span class="type poison">Poison</span>',
           options:['True', 'False'],
-          answer:0
+          answer:0,
+          description: 'Cresselia psy-kicks Machamp and Nidoking'
       },
       {
           question:'Golem would be good against Venusaur as <span class="type rock">Rock</span> is super effective against <span class="type grass">Grass</span>',
           options:['True', 'False'],
-          answer:1
+          answer:1,
+          description: 'Rock is good against Fire, Ice, Flying and Bug'
       },
       {
           question:'From the available types, what is <span class="type bug">Bug</span> super effective against?',
@@ -156,7 +161,8 @@
                    '<img src="img/icons/Psychic.png" alt="psychic"> <img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Ice.png" alt="ice">',
                    '<img src="img/icons/Grass.png" alt="grass"> <img src="img/icons/Psychic.png" alt="psychic"> <img src="img/icons/Dark.png" alt="dark">',
                    '<img src="img/icons/Normal.png" alt="normal"> <img src="img/icons/Grass.png" alt="grass"> <img src="img/icons/Ice.png" alt="ice">'],
-          answer:2
+          answer:2,
+          description: 'Bug buzz is super effective against Hypno'
       },
       {
           question:'From the available types, what is <span class="type psychic">Psychic</span> super effective against?',
@@ -164,7 +170,8 @@
                    '<img src="img/icons/Fighting.png" alt="fighting"> <img src="img/icons/Poison.png" alt="poison">', 
                    '<img src="img/icons/Ghost.png" alt="ghost"> <img src="img/icons/Dark.png" alt="dark">', 
                    '<img src="img/icons/Fighting.png" alt="fighting"> <img src="img/icons/Ghost.png" alt="ghost">'],
-          answer:1
+          answer:1,
+          description: 'Confusion is super effective against Hitmonchan'
       }, 
     ]
 },
@@ -173,13 +180,13 @@
     category:"Not Very Effective",
     quizWrap:[ 
         {
-         question:'From the available types, what is <span class="type normal">Normal</span> not very effective against?',
-         options:['<img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Ghost.png" alt="ghost"> <img src="img/icons/Steel.png" alt="steel">',
+            question:'From the available types, what is <span class="type normal">Normal</span> not very effective against?',
+            options:['<img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Ghost.png" alt="ghost"> <img src="img/icons/Steel.png" alt="steel">',
                   '<img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Water.png" alt="water">',
                   '<img src="img/icons/Dragon.png" alt="dragon"> <img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Poison.png" alt="poison">',
                   '<img src="img/icons/Steel.png" alt="steel"> <img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Bug.png" alt="bug">'],
-         answer:0,
-         description:"e.g Snorlax does not like going up against Gengar"
+            answer:0,
+            description:"Snorlax double resists shadow ball"
         },
         {
             question:'From the available types, what is <span class="type water">Water</span> not very effective against?',
@@ -232,173 +239,205 @@
             description:'Cross chop will be laughed at by Tyranitar, just like Haunter'
         },
         {
-            question:'not very effective against <span class="type ghost">Ghost</span> type Pok&eacute;mon',
+            question:'Dark type Pok&eacute;mon are not very effective against <span class="type ghost">Ghost</span> type Pok&eacute;mon',
             options:['True', 'False'],
             answer:0,
-            description:'Cross chop will be laughed at by Haunter'
+            description:'When you&#8217;re in the dark, you&#8217;re afraid of ghosts, but when you ARE the dark, ghosts are scared of you!'
         },
-
+        {
+            question:'From the available types, what is <span class="type rock">Rock</span> not very effective against?',
+            options:['<img src="img/icons/Flying.png" alt="flying"> <img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Steel.png" alt="steel">',
+                     '<img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Bug.png" alt="bug"> <img src="img/icons/Flying.png" alt="flying">',
+                     '<img src="img/icons/Water.png" alt="water"> <img src="img/icons/Grass.png" alt="grass"> <img src="img/icons/Rock.png" alt="rock">',
+                     '<img src="img/icons/Fighting.png" alt="fighting"> <img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Steel.png" alt="steel">'],
+            answer:3,
+            description:"Throwing rocks at the ground doesn’t really do anything"
+        },
+        {
+            question:'From the available types, what is <span class="type flying">Flying</span> not very effective against?',
+            options:['<img src="img/icons/Electric.png" alt="electric"> <img src="img/icons/Fairy.png" alt="fairy"> <img src="img/icons/Normal.png" alt="normal">',
+                     '<img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Water.png" alt="water"> <img src="img/icons/Grass.png" alt="grass">',
+                     '<img src="img/icons/Bug.png" alt="bug"> <img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Fighting.png" alt="fighting">',
+                     '<img src="img/icons/Electric.png" alt="electric"> <img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Steel.png" alt="steel">'],
+            answer:3,
+            description:"Your sky attacks will do nothing to the giant metal snake that is Steelix"
+        },
+        {
+            question:'From the available types, what is <span class="type psychic">Psychic</span> not very effective against?',
+            options:['<img src="img/icons/Electric.png" alt="electric"> <img src="img/icons/Fairy.png" alt="fairy">',
+                     '<img src="img/icons/Psychic.png" alt="psychic"> <img src="img/icons/Steel.png" alt="steel">',
+                     '<img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Psychic.png" alt="psychic">',
+                     '<img src="img/icons/Steel.png" alt="electric"> <img src="img/icons/Electric.png" alt="electric">'],
+            answer:1,
+            description:"Your sky attacks will do nothing to the giant metal snake that is Steelix"
+        },
+        {
+            question:'From the available types, what is <span class="type dragon">Dragon</span> not very effective against?',
+            options:['<img src="img/icons/Steel.png" alt="steel"> <img src="img/icons/Fairy.png" alt="fairy">',
+                     '<img src="img/icons/Psychic.png" alt="psychic"> <img src="img/icons/Fighting.png" alt="fighting">',
+                     '<img src="img/icons/Fairy.png" alt="fairy"> <img src="img/icons/Psychic.png" alt="psychic">',
+                     '<img src="img/icons/Fighting.png" alt="electric"> <img src="img/icons/Electric.png" alt="electric">'],
+            answer:1,
+            description:"Altaria and the breath has very little effect against the charming fairies of the world"
+        },
+        {
+            question:'From the available types, what is <span class="type fairy">Fairy</span> not very effective against?',
+            options:['<img src="img/icons/Ghost.png" alt="ghost"> <img src="img/icons/Psychic.png" alt="psychic"> <img src="img/icons/Bug.png" alt="bug">',
+                     '<img src="img/icons/Dragon.png" alt="dragon"> <img src="img/icons/Fighting.png" alt="fighting"> <img src="img/icons/Dark.png" alt="dark">',
+                     '<img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Steel.png" alt="steel">',
+                     '<img src="img/icons/Water.png" alt="fighting"> <img src="img/icons/Grass.png" alt="grass"> <img src="img/icons/Electric.png" alt="electric">'],
+            answer:2,
+            description:"Fairies might be charming, but steels are too hard headed to be charmed"
+        },
+        {
+            question:'From the available types, what is <span class="type bug">Bug</span> not very effective against?',
+            options:['<img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Dragon.png" alt="dragon">',
+                     '<img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Fighting.png" alt="fighting"> <img src="img/icons/Fire.png" alt="fire">',
+                     '<img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Psychic.png" alt="psychic">',
+                     '<img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Fairy.png" alt="fairy">'],
+            answer:3,
+            description:"You cant bug a fairy type they are too jolly to be bothered by an insect" /* 3rd Bug*/
+        },
+        {
+            question:'From the available types, what is <span class="type bug">Bug</span> not very effective against?',
+            options:['<img src="img/icons/Flying.png" alt="fire"> <img src="img/icons/Ghost.png" alt="dark"> <img src="img/icons/Steel.png" alt="steel">',
+                     '<img src="img/icons/Ghost.png" alt="ghost"> <img src="img/icons/Steel.png" alt="steel"> <img src="img/icons/Dark.png" alt="dark">',
+                     '<img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Psychic.png" alt="psychic">',
+                     '<img src="img/icons/Flying.png" alt="flying"> <img src="img/icons/Fighting.png" alt="fighting"> <img src="img/icons/Psychic.png" alt="psychic">'],
+            answer:0,
+            description:"Hide away from those flyers you bug types, flyers will just tell you to bugger off!" /* 2nd Bug*/
+        },
+        {
+            question:'From the available types, what is <span class="type bug">Bug</span> not very effective against?',
+            options:['<img src="img/icons/Grass.png" alt="grass"> <img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Psychic.png" alt="psychic">',
+                     '<img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Fighting.png" alt="fighting"> <img src="img/icons/Psychic.png" alt="dark">',
+                     '<img src="img/icons/Normal.png" alt="normal"> <img src="img/icons/Fighting.png" alt="fighting"> <img src="img/icons/Dark.png" alt="dark">',
+                     '<img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Psychic.png" alt="psychic">'],
+            answer:2,
+            description:"Dont bother bugging a fighting type, their buff physique is too strong!" /* 1st */
+        },
+        {
+            question:'From the available types, what is <span class="type fighting">Fighting</span> not very effective against?',
+            options:['<img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Steel.png" alt="steel"> <img src="img/icons/Psychic.png" alt="psychic">',
+                     '<img src="img/icons/Flying.png" alt="flying"> <img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Poison.png" alt="poison">',
+                     '<img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Water.png" alt="water"> <img src="img/icons/Flying.png" alt="flying">',
+                     '<img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Flying.png" alt="fire"> <img src="img/icons/Psychic.png" alt="psychic">'],
+            answer:3,
+            description:"Don't let your fighters go up against those toxic mons, they will poison their physique" // 1st Fighting
+        },
+        {
+            question:'From the available types, what is <span class="type fighting">Fighting</span> not very effective against?',
+            options:['<img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Bug.png" alt="bug"> <img src="img/icons/Ghost.png" alt="ghost">',
+                     '<img src="img/icons/Bug.png" alt="bug"> <img src="img/icons/Fairy.png" alt="fairy"> <img src="img/icons/Ghost.png" alt="ghost">',
+                     '<img src="img/icons/Bug.png" alt="bug"> <img src="img/icons/Fairy.png" alt="fairy"> <img src="img/icons/Ice.png" alt="ice">',
+                     '<img src="img/icons/Fire.png" alt="poison"> <img src="img/icons/Water.png" alt="water"> <img src="img/icons/Bug.png" alt="bug">'],
+            answer:1,
+            description:"OMG! Fighters have a fairy hard time against ghosts and bugs" // 2nd Fighitng
+        },
+        {
+            question:'From the available types, what is <span class="type poison">Poison</span> not very effective against?',
+            options:['<img src="img/icons/Rock.png" alt="poison"> <img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Fire.png" alt="fire">',
+                     '<img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Fighting.png" alt="fighting">',
+                     '<img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Rock.png" alt="rock">',
+                     '<img src="img/icons/Ice.png" alt="ice"> <img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Water.png" alt="water">'],
+            answer:2,
+            description:"Poison has no chemistry with any of its own type" // 1st Poison
+        },
+        {
+            question:'From the available types, what is <span class="type poison">Poison</span> not very effective against?',
+            options:['<img src="img/icons/Grass.png" alt="grass"> <img src="img/icons/Ghost.png" alt="ghost"> <img src="img/icons/Rock.png" alt="rock">',
+                     '<img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Normal.png" alt="nomral"> <img src="img/icons/Ghost.png" alt="ghost">',
+                     '<img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Ghost.png" alt="ghost">',
+                     '<img src="img/icons/Ice.png" alt="ice"> <img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Dark.png" alt="dark">'],
+            answer:2,
+            description:"Put those sprays away, poison has no effect to the ground or rocks" // 2nd Poison
+        },
+        {
+            question:'From the available types, what is <span class="type steel">Steel</span> not very effective against?',
+            options:['<img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Ice.png" alt="ice"> <img src="img/icons/Water.png" alt="water">',
+                     '<img src="img/icons/Grass.png" alt="grass"> <img src="img/icons/Steel.png" alt="steel"> <img src="img/icons/Fire.png" alt="fire">',
+                     '<img src="img/icons/Steel.png" alt="steel"> <img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Water.png" alt="water">',
+                     '<img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Water.png" alt="water"> <img src="img/icons/Steel.png" alt="steel">'],
+            answer:3,
+            description:"Let me&#8217;tal you, steel has little effect on fire, water or other steel types" //1st Steel
+        },
+        {
+            question:'From the available types, what is <span class="type steel">Steel</span> not very effective against?',
+            options:['<img src="img/icons/Water.png" alt="water"> <img src="img/icons/Steel.png" alt="steel"> <img src="img/icons/Electric.png" alt="electric">',
+                     '<img src="img/icons/Steel.png" alt="steel"> <img src="img/icons/Fighting.png" alt="fighting"> <img src="img/icons/Fairy.png" alt="fairy">',
+                     '<img src="img/icons/Bug.png" alt="bug"> <img src="img/icons/Electric.png" alt="electric"> <img src="img/icons/Psychic.png" alt="psychic">',
+                     '<img src="img/icons/Electric.png" alt="electric"> <img src="img/icons/Water.png" alt="water"> <img src="img/icons/Fairy.png" alt="fairy">'],
+            answer:0,
+            description:"Steel is not a very riveting match against water, steel or electric" // 2nd Steel
+        }
         ]
 },
-
-/* 
-
-
-
-
-
-
-What is fighting not very effective against?
-Answer: Poison, flying, psychic, bug, fairy, ghost
-Dud answers:
-Rock / Steel / Ice
-Normal / Dark / Ice
-Fire / Water / Grass
-
-What is Poison not very effective against?
-Answer: Poison, Ground, Rock, Ghost
-Dud answers:
-Grass / Fairy / Fire
-Dragon / Normal / Fighting
-Ice / Water / Dark
-
-
-
-What is Flying not very effective against?
-Answers: Electric, Rock, Steel
-Dud answers:
-Bug / Grass / Fighting
-Fire / Water / Grass
-Dragon / Fairy / Normal
-
-
-What is Psychic not very effective against?
-Answer: Psychic, steel
-Dud answers:
-Fire / Dragon / Fighting 
-Ghost / Bug / Poison
-Water / Grass / Electric
-
-What is Bug not very effective against?
-Answer: Fire, Fighting, Poison, Flying, Ghost, Steel, Fairy
-Dud answers:
-Grass / Dark / Psychic 
-Normal / Dragon / Dark
-Electric / Psychic / Dark
-
-What is Rock not very effective against?
-Answer: Fighting, Ground, Steel
-Dud answers:
-Flying / Ice / Fire
-Water / Grass / Rock
-Rock / Dark / Ghost
-
-What is Ghost not very effective against?
-Answer: Dark, normal
-Dud answers:
-Psychic / Ghost / Fairy 
-Fire / Water / Electric
-Bug / Poison / Dragon
-
-
-What is Dragon not very effective against?
-Answer: Steel & Fairy
-Dud answers: 
-Fighting / Dark / Flying
-Ice / Rock / Electric
-Fire / Water / Grass
-
-
-
-What is Steel not very effective against?
-Answer: Fire, Water, Steel, Electric
-Dud answers:
-Rock / Ice / Fairy
-Grass / Fighting / Ground
-Bug / Poison / Psychic
-
-
-What is Fairy not very effective against?
-Answer: Fire, Poison, Steel
-Dud answers:
-Dragon / Fighting / Dark 
-Ghost / Psychic / Bug
-Water / Grass / Electric
-
-
-Pok&eacute;mon ##################################################################################
-#################################################################################################
-
-
-
-DOUBLE RESISTED QUESTIONS and answers lol
-What does normal double resist?
-Answer: Ghost
-Dud answers:
-Fighting 
-Fairy
-Dark
-
-What does Ground double resist?
-Answer: Electric
-Dud answers:
-Water
-Poison 
-Rock
-
-What does flying double resist?
-Answer: Ground
-Dud answers:
-Electric
-Ice
-Rock
-
-What does ghost double resist?
-Answer: Normal / Fighting
-Dud answers:
-Poison / Ghost
-Bug / Steel
-Dark / Poison
-
-
-What does dark double resist?
-Answer: Psychic
-Dud answers:
-Fighting 
-Bug
-Fairy
-
-What does steel double resist?
-Answer: Poison
-Dud answers:
-Fire
-Fighting
-Ground 
-
-What does Fairy double resist?
-Answer: Dragon
-Dud answers:
-Poison
-Steel
-Fairy
-
-
-*/
-
-
-
-
 {
     category:"Double Resisted",
     quizWrap:[ 
         {
-            question:'From the available types, what is <span class="type water">Water</span> not very effective against?',
-            options:['<img src="img/icons/Water.png" alt="water"> <img src="img/icons/Ground.png" alt="ground"> <img src="img/icons/Rock.png" alt="rock">',
-                     '<img src="img/icons/Rock.png" alt="rock"> <img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Grass.png" alt="grass">',
-                     '<img src="img/icons/Water.png" alt="water"> <img src="img/icons/Grass.png" alt="grass"> <img src="img/icons/Dragon.png" alt="dragon">',
-                     '<img src="img/icons/Ice.png" alt="ice"> <img src="img/icons/Water.png" alt="water"> <img src="img/icons/Fighting.png" alt="fighting">'],
+            question:'From the available types, what is <span class="type normal">Normal</span> double resistant to?',
+            options:['<img src="img/icons/Ghost.png" alt="ghost">',
+                     '<img src="img/icons/Fighting.png" alt="fighting">',
+                     '<img src="img/icons/Fairy.png" alt="fairy">',
+                     '<img src="img/icons/Dark.png" alt="dark">'],
+            answer:0,
+            description: 'Ominous wind is but a cool breeze to normal types',
+        },
+        {
+            question:'From the available types, what is <span class="type ground">Ground</span> double resistant to?',
+            options:['<img src="img/icons/Rock.png" alt="rock">',
+                     '<img src="img/icons/Poison.png" alt="poison">',
+                     '<img src="img/icons/Water.png" alt="water">',
+                     '<img src="img/icons/Electric.png" alt="electric">'],
+            answer:3,
+            description: 'Raichu tried to thunder punch the ground, and everyone laughed, including the ground type mons',
+        },
+        {
+            question:'From the available types, what is <span class="type flying">Flying</span> double resistant to?',
+            options:['<img src="img/icons/Electric.png" alt="electric">',
+                     '<img src="img/icons/Ice.png" alt="ice">',
+                     '<img src="img/icons/ground.png" alt="ground">',
+                     '<img src="img/icons/rock.png" alt="rock">'],
             answer:2,
-           }
+            description: 'Earth power is powerless if you&#8217;re flying!'
+        },
+        {
+            question:'From the available types, what is <span class="type ghost">Ghost</span> double resistant to?',
+            options:['<img src="img/icons/Normal.png" alt="normal"> <img src="img/icons/Fighting.png" alt="fighting">',
+                     '<img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Ghost.png" alt="ghost">',
+                     '<img src="img/icons/Bug.png" alt="bug"> <img src="img/icons/Steel.png" alt="steel">',
+                     '<img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Poison.png" alt="poison">'],
+            answer:0,
+            description: 'How can you body slam or dynamic punch something you can&#8217;t even touch like a ghost?'
+        },
+        {
+            question:'From the available types, what is <span class="type steel">Steel</span> double resistant to?',
+            options:['<img src="img/icons/Fire.png" alt="fire">',
+                     '<img src="img/icons/Poison.png" alt="poison">',
+                     '<img src="img/icons/Fighting.png" alt="fighting">',
+                     '<img src="img/icons/Ground.png" alt="ground">'],
+            answer:1,
+            description: 'Have you ever tried to poison jab a piece of metal? Right. It&#8217;s nonsense!'
+        },
+        {
+            question:'From the available types, what is <span class="type fairy">Fairy</span> double resistant to?',
+            options:['<img src="img/icons/Steel.png" alt="steel">',
+                     '<img src="img/icons/Poison.png" alt="poison">',
+                     '<img src="img/icons/Dragon.png" alt="dragon">',
+                     '<img src="img/icons/Fairy.png" alt="fairy">'],
+            answer:2,
+            description: 'Fairy types are so cute! No way Outrage is effective here!',
+        },
+        {
+            question:'From the available types, what is <span class="type dark">Dark</span> double resistant to?',
+            options:['<img src="img/icons/Fairy.png" alt="fairy">',
+                     '<img src="img/icons/Fighting.png" alt="fighting">',
+                     '<img src="img/icons/Bug.png" alt="bug">',
+                     '<img src="img/icons/Psychic.png" alt="psychic">'],
+            answer:0,
+            description: 'Darkrai will continue to stare deep into your soul, unaffected, if you try to use any psychic powers on it',
+        },
         ]
 },
 {
@@ -467,18 +506,45 @@ Fairy
               options:['True', 'False'],
               answer:1
            },
+           {
+            question:'From the available types, what is <span class="type normal">Normal</span> double resistant to?',
+            options:['<img src="img/icons/Ghost.png" alt="ghost">',
+                     '<img src="img/icons/Fighting.png" alt="fighting">',
+                     '<img src="img/icons/Fairy.png" alt="fairy">',
+                     '<img src="img/icons/Dark.png" alt="dark">'],
+            answer:0,
+            description: 'Ominous wind is but a cool breeze to normal types',
+        },
+        {
+            question:'From the available types, what is <span class="type ground">Ground</span> double resistant to?',
+            options:['<img src="img/icons/Rock.png" alt="rock">',
+                     '<img src="img/icons/Poison.png" alt="poison">',
+                     '<img src="img/icons/Water.png" alt="water">',
+                     '<img src="img/icons/Electric.png" alt="electric">'],
+            answer:3,
+            description: 'Raichu tried to thunder punch the ground, and everyone laughed, including the ground type mons',
+        },
+        {
+            question:'From the available types, what is <span class="type flying">Flying</span> double resistant to?',
+            options:['<img src="img/icons/Electric.png" alt="electric">',
+                     '<img src="img/icons/Ice.png" alt="ice">',
+                     '<img src="img/icons/ground.png" alt="ground">',
+                     '<img src="img/icons/rock.png" alt="rock">'],
+            answer:2,
+            description: 'Earth power is power is powerless if you’re flying!'
+        },
+        {
+            question:'From the available types, what is <span class="type ghost">Ghost</span> double resistant to?',
+            options:['<img src="img/icons/Normal.png" alt="normal"> <img src="img/icons/Fighting.png" alt="fighting">',
+                     '<img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Ghost.png" alt="ghost">',
+                     '<img src="img/icons/Bug.png" alt="bug"> <img src="img/icons/Steel.png" alt="steel">',
+                     '<img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Poison.png" alt="poison">'],
+            answer:0,
+            description: 'How can you body slam or dynamic punch something you can’t even touch like a ghost?'
+        },
         ]
 },
-
-/*{
-    category:"Speed Test",
-    quizWrap:[{question:'Under-Development',
-
-    }]
-}*/
  ]
-       
-
 
     function createCategory(){
      // console.log(myApp[1].category);
@@ -586,23 +652,25 @@ function setAvailableQuestion(){
  }
 
  function startTimer(){
-      let timeLimit=15;
-      remainingTime.innerHTML=timeLimit;
-      remainingTime.classList.remove("less-time");
-      interval=setInterval(()=>{
-        timeLimit--;
-        if(timeLimit < 10){
-        	timeLimit="0"+timeLimit;
-        }
-        if(timeLimit < 6){
-         remainingTime.classList.add("less-time");
-        }
+
+        let timeLimit=10;
         remainingTime.innerHTML=timeLimit;
-        if(timeLimit == 0){
-        	clearInterval(interval);
-        	timeIsUp();
-        }
-      },1000)
+        remainingTime.classList.remove("less-time");
+        interval=setInterval(()=>{
+          timeLimit--;
+          if(timeLimit < 10){
+              timeLimit="0"+timeLimit;
+          }
+          if(timeLimit < 6){
+           remainingTime.classList.add("less-time");
+          }
+          remainingTime.innerHTML=timeLimit;
+          if(timeLimit == 0){
+              clearInterval(interval);
+              timeIsUp();
+          }
+        },1000)
+
  }
 
 function stopTimer(){
