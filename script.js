@@ -308,15 +308,6 @@
             description:"Hide away from those flyers you bug types, flyers will just tell you to bugger off!" /* 2nd Bug*/
         },
         {
-            question:'From the available types, what is <span class="type bug">Bug</span> not very effective against?',
-            options:['<img src="img/icons/Grass.png" alt="grass"> <img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Psychic.png" alt="psychic">',
-                     '<img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Fighting.png" alt="fighting"> <img src="img/icons/Psychic.png" alt="dark">',
-                     '<img src="img/icons/Normal.png" alt="normal"> <img src="img/icons/Fighting.png" alt="fighting"> <img src="img/icons/Dark.png" alt="dark">',
-                     '<img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Fire.png" alt="fire"> <img src="img/icons/Psychic.png" alt="psychic">'],
-            answer:2,
-            description:"Dont bother bugging a fighting type, their buff physique is too strong!" /* 1st */
-        },
-        {
             question:'From the available types, what is <span class="type fighting">Fighting</span> not very effective against?',
             options:['<img src="img/icons/Poison.png" alt="poison"> <img src="img/icons/Steel.png" alt="steel"> <img src="img/icons/Psychic.png" alt="psychic">',
                      '<img src="img/icons/Flying.png" alt="flying"> <img src="img/icons/Dark.png" alt="dark"> <img src="img/icons/Poison.png" alt="poison">',
