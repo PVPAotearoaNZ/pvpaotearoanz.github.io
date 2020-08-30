@@ -653,7 +653,7 @@ function setAvailableQuestion(){
 
  function startTimer(){
 
-        let timeLimit=10;
+        let timeLimit=15;
         remainingTime.innerHTML=timeLimit;
         remainingTime.classList.remove("less-time");
         interval=setInterval(()=>{
