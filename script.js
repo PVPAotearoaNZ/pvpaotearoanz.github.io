@@ -241,7 +241,7 @@
         {
             question:'Dark type Pok&eacute;mon are not very effective against <span class="type ghost">Ghost</span> type Pok&eacute;mon',
             options:['True', 'False'],
-            answer:0,
+            answer:1,
             description:'When you&#8217;re in the dark, you&#8217;re afraid of ghosts, but when you ARE the dark, ghosts are scared of you!'
         },
         {
@@ -277,7 +277,7 @@
                      '<img src="img/icons/Psychic.png" alt="psychic"> <img src="img/icons/Fighting.png" alt="fighting">',
                      '<img src="img/icons/Fairy.png" alt="fairy"> <img src="img/icons/Psychic.png" alt="psychic">',
                      '<img src="img/icons/Fighting.png" alt="electric"> <img src="img/icons/Electric.png" alt="electric">'],
-            answer:1,
+            answer:0,
             description:"Altaria and the breath has very little effect against the charming fairies of the world"
         },
         {
